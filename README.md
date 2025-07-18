@@ -2,6 +2,15 @@
 
 A comprehensive **machine learning-powered** loan approval prediction system built with **FastAPI** backend and **Streamlit** frontend. This system provides intelligent credit risk assessment with SHAP explanations and actionable recommendations for loan applications.
 
+### 🌐 Online Deployment
+The Loan Prediction System is live and accessible at:
+**[https://render-loansense-web.onrender.com/](https://render-loansense-web.onrender.com/)**
+
+### 📹 Video Demonstration
+Watch the complete system walkthrough and deployment guide:
+**[YouTube Demo Video](https://youtu.be/3p2w_T2Gn50)**
+
+
 ## 🌟 Overview
 
 This system helps financial institutions automate loan approval decisions using machine learning models. It features:
