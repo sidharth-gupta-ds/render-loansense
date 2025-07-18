@@ -8,7 +8,7 @@ from io import StringIO
 import base64
 
 # Configuration
-API_BASE_URL = "http://localhost:8000/api/v1"
+API_BASE_URL = "https://render-loansense.onrender.com/api/v1"
 
 # Page config
 st.set_page_config(
