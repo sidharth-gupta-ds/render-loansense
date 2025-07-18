@@ -28,7 +28,9 @@ class ModelLoader:
             self.models['decision_tree'] = joblib.load(
                 self.model_dir / 'enc1_decision_tree.pkl'
             )
-            
+            self.models['shap'] = joblib.load(
+                self.model_dir / 'enc1_shap_tree.pkl'
+            )
             # Load encoders
             self.encoders['object_encoder'] = joblib.load(
                 self.model_dir / 'encoder' / 'enc1_object_encoder.pkl'

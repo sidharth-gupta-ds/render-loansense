@@ -19,7 +19,7 @@ class LoanExplainer:
         """Initialize SHAP explainer"""
         try:
             model = self.model_loader.get_model('random_forest')
-            self.explainer = shap.TreeExplainer(model)
+            self.explainer = self.model_loader.get_model('shap')
             logger.info("SHAP explainer initialized successfully")
         except Exception as e:
             logger.error(f"Error initializing SHAP explainer: {e}")
