@@ -4,12 +4,4 @@ pydantic==2.5.0
 numpy
 pandas
 scikit-learn
-xgboost
-lightgbm
-shap
 joblib
-python-dotenv
-requests
-typing_extensions
-python-multipart
-starlette==0.27.0
