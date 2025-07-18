@@ -8,7 +8,8 @@ The Loan Prediction System is live and accessible at:
 
 ### 📹 Video Demonstration
 Watch the complete system walkthrough and deployment guide:
-[![Watch the demo](https://img.youtube.com/vi/3p2w_T2Gn50/0.jpg)](https://www.youtube.com/watch?v=3p2w_T2Gn50)
+[![YouTube Demo Video](https://img.youtube.com/vi/3p2w_T2Gn50/maxresdefault.jpg)](https://youtu.be/3p2w_T2Gn50)
+
 
 ## 🌟 Overview
 
